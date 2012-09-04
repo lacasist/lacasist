@@ -1,0 +1,234 @@
+
+body {
+  background-color: #ffffff;
+  color: #4b3c24;
+}
+
+.form-submit {
+  background-color: #e1c887;
+  color: #000000;
+}
+
+.site-slogan {
+  color: #766455;
+}
+
+.wrapper-footer {
+  border-color: #4b3c24;
+}
+
+.stack-preheader {
+  border-color: #4b3c24;
+}
+
+.stack-content-inner {
+  border-color: #4b3c24;
+}
+
+.stack-copyright .inner {
+  border-color: #4b3c24;
+}
+
+.stack-navigation .menu li a {
+  color: #ffffff;
+}
+
+thead th {
+  border-bottom-color: #ffffff;
+}
+
+.menu-dropdown .menu .menu a {
+  border-color: #ffffff;
+}
+
+#block-feedback-feedback a {
+  background-color: #3e1928;
+  color: #ffffff;
+  border-color: #ffffff;
+}
+
+.rotating-banner .rb-slides {
+  border-color: #ebe1bd;
+}
+
+.stack-navigation .menu {
+  background-color: #4b3c24;
+}
+
+.controls.buttons a.activeSlide {
+  background-color: #3e1928;
+}
+
+#block-feedback-feedback a:hover {
+  background-color: #766455;
+}
+
+.form-submit + input {
+  background-color: #ffffff;
+}
+
+a {
+  color: #3e1928;
+}
+
+li a.active {
+  color: #3e1928;
+}
+
+.site-name a {
+  color: #3e1928;
+}
+
+.page-forum h1 {
+  color: #3e1928;
+}
+
+.messages {
+  color: #000000;
+}
+
+.messages ul {
+  color: #000000;
+}
+
+.messages ul li {
+  color: #000000;
+}
+
+.wrapper-header .active-trail a {
+  color: #000000;
+}
+
+.messages a {
+  color: #4b3c24;
+}
+
+h1 {
+  color: #4b3c24;
+}
+
+h2 {
+  color: #4b3c24;
+}
+
+h3 {
+  color: #4b3c24;
+}
+
+h4 {
+  color: #4b3c24;
+}
+
+h5 {
+  color: #4b3c24;
+}
+
+h6 {
+  color: #4b3c24;
+}
+
+.forum a {
+  color: #4b3c24;
+}
+
+#forum table thead tr th {
+  color: #4b3c24;
+}
+
+#forum table thead tr th a {
+  color: #4b3c24;
+}
+
+.rotating-banner {
+  color: #4b3c24;
+}
+
+.rotating-banner a {
+  color: #4b3c24;
+}
+
+h2 a {
+  color: #766455;
+}
+
+a:hover {
+  color: #766455;
+}
+
+h2 a:hover {
+  color: #c2a337;
+}
+
+.forum .description {
+  color: #c2a337;
+}
+
+.menu-dropdown .menu .expanded:hover > a {
+  background-color: #766455;
+}
+
+.menu-dropdown .menu .active-trail:hover > a {
+  background-color: #766455;
+}
+
+.stack-navigation .menu li a:hover {
+  background-color: #766455;
+}
+
+.sidebar .block,.block-aggregator ul li + li {
+  border-color: #e1c887;
+}
+
+.comment {
+  border-top-color: #c2a337;
+}
+
+.comment-wrapper h2 {
+  border-top-color: #c2a337;
+}
+
+.sidebar.left {
+  border-right-color: #c2a337;
+}
+
+.sidebar.right {
+  border-left-color: #c2a337;
+}
+
+tr.even td {
+  background-color: #f5edd7;
+}
+
+table tbody tr.even td.active {
+  background-color: #000000;
+}
+
+table tbody tr.odd td.active {
+  background-color: #000000;
+}
+
+
+#header-region #site-name a:link {
+  color: #3e1928;
+}
+
+#header-region #site-name a:hover {
+  color: #3e1928;
+}
+
+#header-region #site-name a {
+  color: #3e1928;
+}
+
+#main .field-item p {
+  color: #3e1928;
+}
+
+#page {
+  background-color: #f5edd7;
+}
+
+.menu-dropdown .more-indicator {
+  background-color: transparent;
+}
+

@@ -1,0 +1,24 @@
+@font-face {
+  font-family: 'ChunkFive';
+  src: url('fonts/ChunkFive/Chunkfive.eot');
+  src: local('ChunkFive'), url('fonts/ChunkFive/Chunkfive.woff') format('woff'),
+   url('fonts/ChunkFive/Chunkfive.ttf') format('truetype'),
+   url('fonts/ChunkFive/Chunkfive.svg') format('svg');
+}
+
+@font-face {
+  font-family: 'CartoGothic Bold';
+  src: url('fonts/CartoGothic%20Bold/CartoGothicStd-Bold.eot');
+  src: local('CartoGothicStd-Bold'), url('fonts/CartoGothic%20Bold/CartoGothicStd-Bold.woff') format('woff'),
+   url('fonts/CartoGothic%20Bold/CartoGothicStd-Bold.ttf') format('truetype'),
+   url('fonts/CartoGothic%20Bold/CartoGothicStd-Bold.svg') format('svg');
+}
+
+@font-face {
+  font-family: 'GoodDog';
+  src: url('fonts/GoodDog/GoodDog.eot');
+  src: local('GoodDog'), url('fonts/GoodDog/GoodDog.woff') format('woff'),
+   url('fonts/GoodDog/GoodDog.ttf') format('truetype'),
+   url('fonts/GoodDog/GoodDog.svg') format('svg');
+}
+
